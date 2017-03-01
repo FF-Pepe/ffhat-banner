@@ -1,4 +1,4 @@
-# gluon-banner
+# ffhat-banner
 
 Gluon Banner von Freifunk Hattingen
 
