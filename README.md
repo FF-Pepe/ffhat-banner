@@ -1,3 +1,3 @@
 # Freifunk Hattingen 
 
-Freifunk Hattingen Gluon Paket v2016.2.3
+Freifunk Hattingen Gluon Paket v2016.2.4
