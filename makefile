@@ -64,7 +64,7 @@ endef
 
 define Package/ffhat-banner/install
 	$(INSTALL_DIR) $(1)/etc/
-	$(INSTALL_DATA) ./files/etc/banner.ffhat $(1)/etc/
+	$(INSTALL_DATA) ./banner.ffhat $(1)/etc/
 endef
 
 $(eval $(call BuildPackage,ffhat-banner))
